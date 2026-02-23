@@ -1,4 +1,4 @@
-🧑🏻‍🎓 ALuno Da ETEC de Registro Centro Paula Souza 
+🧑🏻‍🎓 ALuno Da ETEC de Registro Centro Paula Souza /n
 📜 Portador do Pergaminho de Análise e Desenvolvimento de Sistemas
 🌐 Especialista nas Artes Secretas das Redes Estruturadas de Computadores
 📚 Estudioso da Tradição do Ensino e da Aprendizagem
