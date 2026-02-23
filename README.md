@@ -1,9 +1,8 @@
-# 👋 Olá,viajante dos Reinos do Código !
+#👋 Olá! Seja bem-vindo ao meu perfil!
 
-🎓 Estudante da ETEC - Centro Paula Souza  
-💻 2º ano de Desenvolvimento de Sistemas  
-🚀 Focado em me tornar Desenvolvedor Full Stack  
-🧑🏻‍🎓 Aluno João Miguel de Almeida Leite
+🎓 Estudante de Desenvolvimento de Sistemas na ETEC - Centro Paula Souza
+📚 Atualmente no 2º ano do curso técnico
+🚀 Em jornada para me tornar Desenvolvedor Full Stack
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
