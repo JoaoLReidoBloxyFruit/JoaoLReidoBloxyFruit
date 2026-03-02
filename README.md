@@ -1,8 +1,8 @@
 #👋 Olá! Seja bem-vindo ao meu perfil!
 
-🎓 Estudante de Desenvolvimento de Sistemas na ETEC - Centro Paula Souza
-📚 Atualmente no 2º ano do curso técnico
-🚀 Em jornada para me tornar Desenvolvedor Full Stack
+#🎓 Estudante de Desenvolvimento de Sistemas na ETEC - Centro Paula Souza
+#📚 Atualmente no 2º ano do curso técnico
+#🚀 Em jornada para me tornar Desenvolvedor Full Stack
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
