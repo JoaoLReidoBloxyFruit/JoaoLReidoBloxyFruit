@@ -1,4 +1,4 @@
-#👋 Olá! Seja bem-vindo ao meu perfil!
+## 👋 Olá! Seja bem-vindo ao meu perfil!
 
 - 🎓 Estudante de Desenvolvimento de Sistemas na ETEC - Centro Paula Souza
 - 📚 Atualmente no 2º ano do curso técnico
